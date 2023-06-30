@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joeycan2
-- 👀 I’m interested in ... AI 
+- 👀 I’m interested in ... Artificial Intelligence 
 - 🌱 I’m currently learning ... Python and AI systems 
 - 💞️ I’m looking to collaborate on ... LLM's & ML (computer vision)
 - 📫 How to reach me ... https://www.instagram.com/joeycantu93/
